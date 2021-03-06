@@ -18,8 +18,8 @@ body {
     background-color: #d5ddd6;
 }
 /* form start */
-/* menu start */
 
+/* menu start */
 .color {
     background-color: #000;
     border-bottom: 2px solid rgba(0, 0, 0, 0.144);
@@ -72,7 +72,6 @@ a {
     color: #fff;
     text-decoration: underline;
 }
-
 /* menu end */
 
 .head h4 {
@@ -93,10 +92,9 @@ a {
 #form button:hover {
     text-decoration: underline;
 }
-
 /* form end */
-/* touch start */
 
+/* touch start */
 footer {
     background-color: rgba(241, 69, 98, 0.5);
 }
@@ -142,5 +140,4 @@ footer {
 .call_us h5 {
     padding-top: 54px;
 }
-
 /* touch end */
